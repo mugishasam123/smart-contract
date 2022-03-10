@@ -2,10 +2,10 @@
 pragma solidity ^0.8.12;
 
 
-contract Base {
+contract HelloWorld {
 uint256  number;
 constructor(){
-     number;
+    
 }
 
 function setNumber (uint256 num) public {
